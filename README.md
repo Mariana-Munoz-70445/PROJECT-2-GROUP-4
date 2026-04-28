@@ -1,4 +1,5 @@
 # MARIANA MUNOZ: Sp26_71552_Group 4 
+# PROECT 2: Snowflake Analytics Dashboard
 
 ## Kevin Behlke:
 ## Guy Mayer: 
