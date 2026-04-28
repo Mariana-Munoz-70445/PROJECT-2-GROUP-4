@@ -1,10 +1,10 @@
 # MARIANA MUNOZ: Sp26_71552_Group 4 
 # PROECT 2: Snowflake Analytics Dashboard
 
-## Kevin Behlke:
-## Guy Mayer: 
-## David Moreno:
-## Nadia Nazeem: 
+## Kevin Behlke: https://github.com/kwb95124/Sp26_71552_Group-4-Project-2/tree/main
+## Guy Mayer: https://github.com/guymayer1/urbancrimetimeseries/blob/main/README.md
+## David Moreno: https://github.com/dmon67854/urbancrimetimeseries/tree/main
+## Nadia Nazeem: https://github.com/nadianaz07/group4_project2/blob/main/README.md
 
 ## DATASET DESCRIPTIONS 📝
 ###   We chose the City Police Departments dataset from the Snowflake Marketplace, provided by Snowflake Public Data Free, and is listed as the Urban Crime Timeseries dataset. We chose this dataset because it is easy to understand and relevant to real-world situations, while still being complex enough to support meaningful analysis. Compared to datasets like economic indicators or housing finance reports, crime data feels more straightforward and relevant to everyday life.
